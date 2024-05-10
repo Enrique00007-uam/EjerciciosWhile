@@ -1,4 +1,4 @@
-/*Desarrollar un programa que imprima los números impares en orden
+/*2. Desarrollar un programa que imprima los números impares en orden
 descendente que hay entre 1 y 100.
 */
 
